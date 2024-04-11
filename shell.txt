@@ -1,0 +1,6 @@
+装机
+1.java
+yum search java|grep jdk
+yum install -y java-1.8.0-openjdk*
+java -version
+find / -name 'java'
